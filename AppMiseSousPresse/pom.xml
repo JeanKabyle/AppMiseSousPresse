@@ -10,11 +10,4 @@
     <module>AppMiseSousPresse-web</module>
     <module>AppMiseSousPresse-ejb</module>
   </modules>
-    <dependencies>
-        <dependency>
-            <groupId>${project.groupId}</groupId>
-            <artifactId>Shared</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-    </dependencies>
 </project>
